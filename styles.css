@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #3e742f;
+  margin: 20px;
+  color: #4f4444;
+}
+
+h1 {
+  color: #000000;
+  font-size: 2.5em;
+}
+
+h2 {
+  color: #060707;
+  font-size: 1.8em;
+}
+
+ul, ol {
+  margin: 10px 0;
+  padding-left: 20px;
+}
+
+
+img {
+  border: 2px solid #333633;
+  border-radius: 10px;
+  margin: 10px 0;
+}
+
+
+p {
+  font-size: 1.1em;
+  line-height: 1.5;
+}
